@@ -6,6 +6,7 @@ function openNav() {
 $('#show1').addClass('hiddenreveal').removeClass('hidden');
 $('#show2').addClass('hiddenreveal').removeClass('hidden');
 $('#show3').addClass('hiddenreveal').removeClass('hidden');
+    document.querySelector('audio').muted = false
     document.querySelector('audio').play();
   });
 };
