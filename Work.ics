@@ -1,0 +1,48 @@
+BEGIN:VEVENT
+DTSTART;DATE=2024-05-13;TZID=Australia/Sydney (your time zone may vary):170000  
+DTEND;DATE=2024-05-13;TZID=Australia/Sydney (your time zone may vary):220000
+SUMMARY: Coles, Wagga Wagga 0704 (Service department)
+LOCATION: Coles, Wagga Wagga 0704
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;DATE=2024-05-15;TZID=Australia/Sydney (your time zone may vary):200000  
+DTEND;DATE=2024-05-16;TZID=Australia/Sydney (your time zone may vary):010000
+SUMMARY: Coles, Wagga Wagga 0704 (Grocery department)
+LOCATION: Coles, Wagga Wagga 0704
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;DATE=2024-05-16;TZID=Australia/Sydney (your time zone may vary):200000  
+DTEND;DATE=2024-05-17;TZID=Australia/Sydney (your time zone may vary):010000
+SUMMARY: Coles, Wagga Wagga 0704 (Grocery department)
+LOCATION: Coles, Wagga Wagga 0704
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;DATE=2024-05-17;TZID=Australia/Sydney (your time zone may vary):200000  
+DTEND;DATE=2024-05-18;TZID=Australia/Sydney (your time zone may vary):010000
+SUMMARY: Coles, Wagga Wagga 0704 (Grocery department)
+LOCATION: Coles, Wagga Wagga 0704
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;DATE=2024-05-18;TZID=Australia/Sydney (your time zone may vary):153000  
+DTEND;DATE=2024-05-18;TZID=Australia/Sydney (your time zone may vary):183000
+SUMMARY: Coles, Wagga Wagga 0704 (Service department)
+LOCATION: Coles, Wagga Wagga 0704
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;DATE=2024-05-18;TZID=Australia/Sydney (your time zone may vary):200000  
+DTEND;DATE=2024-05-19;TZID=Australia/Sydney (your time zone may vary):010000
+SUMMARY: Coles, Wagga Wagga 0704 (Service department)
+LOCATION: Coles, Wagga Wagga 0704
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;DATE=2024-05-19;TZID=Australia/Sydney (your time zone may vary):160000  
+DTEND;DATE=2024-05-19;TZID=Australia/Sydney (your time zone may vary):190000
+SUMMARY: Coles, Wagga Wagga 0704 (Service department)
+LOCATION: Coles, Wagga Wagga 0704
+END:VEVENT
